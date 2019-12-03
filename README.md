@@ -22,3 +22,5 @@ Elastic cache is a web service that makes it easy to deploy, operate and scale a
 The service improves the performance of web applications by allowing you to retieve, information from fast, managed,in-memory caches instead of relying entirely on slower disk based databases.
 
 Elastic cache supports two open source in-memory caching engines:
+Memcached
+Redis
