@@ -4,6 +4,7 @@ Database
 Data Warehousing:
 -Used to pull in very large and complex data sets.
 -Used for Business Intelligence.
+Red Shift is amazon data warehousing.
 -Tools used :
 Cognos
 Jaspersoft
