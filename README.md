@@ -11,3 +11,8 @@ SQL Server reporting services
 Oracle Hyperion
 SAP NetWeaver
 
+OLTP - Online Transaction Processing
+ex : row to data regarding online order.
+
+OLAP - Online Analytics Processing
+ex : huge number of orders, sum of unit solds
