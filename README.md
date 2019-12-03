@@ -16,3 +16,6 @@ ex : row to data regarding online order.
 
 OLAP - Online Analytics Processing
 ex : huge number of orders, sum of unit solds
+
+Elastic cache:
+Elastic cache is a web service that makes it easy to deploy, operate and scale an in-memory cache in cloud.
