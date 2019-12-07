@@ -30,3 +30,15 @@ Redis
 Amazon DNS Service - Route53
 Why Route 53 ?
 First Interstate ( from one side of country to another ) road in US was Route 66. And DNS is actually on port 53. That's why Route 53.
+
+NS Records : Name Server Records - these are the top level domain servers to direct traffic to the content DNS server which contains the authoriative DNS records.
+
+"A" record stands for "Address" records.
+
+"C" Name - stands for canonical name can used to resolve one domain name to another.
+
+Exam Tips :
+Elastic load balancer do not have  pre defined IPv4 addresses,you resolve them to use DNS name.
+Alias record and "C" name.
+
+
