@@ -25,3 +25,8 @@ The service improves the performance of web applications by allowing you to reti
 Elastic cache supports two open source in-memory caching engines:
 Memcached
 Redis
+
+
+Amazon DNS Service - Route53
+Why Route 53 ?
+First Interstate ( from one side of country to another ) road in US was Route 66. And DNS is actually on port 53. That's why Route 53.
